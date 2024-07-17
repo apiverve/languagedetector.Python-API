@@ -47,7 +47,7 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-query = {  "text": "esta es una frase en español. esta API puede detectar fácilmente el idioma"}
+query = {  "text": "esta es una frase en español. esta API puede detectar fácilmente el idioma" }
 ```
 
 ###### Simple Request
